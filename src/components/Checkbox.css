@@ -1,0 +1,28 @@
+input.checkbox {
+    appearance: none;
+    -webkit-appearance: none;
+
+    min-height: 1.75rem;
+    min-width: 1.75rem;
+    border-radius: 999px;
+    border: 2px solid var(--blue);
+
+    cursor: pointer;
+    transition: border 0.2s;
+}
+
+.checkbox:hover {
+    border: 2px solid var(--blue-dark);
+}
+
+
+.checkbox:checked {
+    background: var(--purple-dark);
+    border: 1px solid var(--purple-dark);
+    transition: border 0.2s, background 0.2s;
+}
+
+.checkbox:checked:hover {
+    background: var(--purple);
+    border: 1px solid var(--purple);
+}

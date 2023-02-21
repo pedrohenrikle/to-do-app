@@ -1,0 +1,20 @@
+.addTask {
+    display: flex;
+    align-items: center;
+    background: var(--blue-dark);
+    height: 100%;
+    padding: 1.6rem;
+    border-radius: 8px;
+    border: 0;
+    color: var(--gray-100);
+    font-weight: bold;
+    gap: 0.8rem;
+    font-size: 1.4rem;
+
+    transition: all 0.3s;
+}
+
+.addTask:hover {
+    background: var(--blue);
+    color: var(--gray-100);
+}

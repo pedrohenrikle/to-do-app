@@ -1,0 +1,18 @@
+.inputTask {
+    background: var(--gray-500);
+    outline: none;
+    border: none;
+    border-radius: 8px;
+    padding: 1.6rem;
+    color: var(--gray-100);
+    flex: 1;
+}
+
+.inputTask::placeholder {
+    color: var(--gray-300);
+    font-size: 1.6rem;
+}
+
+.inputTask:focus {
+    border: 1px solid var(--purple);
+}
