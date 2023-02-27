@@ -42,4 +42,18 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Pedro Klein
+## ✍ Author
+<br>
+
+<img alt="Pedro Henrique Klein" title="Pedro Henrique Klein" src="https://github.com/pedrohenrikle.png" width="150">
+<p>
+    Made with 💜 by Pedro Henrique Klein
+</p>
+<p align="left">
+    <a href="https://www.linkedin.com/in/pedro-klein/" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: pedro-klein" />
+    </a>
+    <a href="mailto:pedro.klein.sl@gmail.com" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="pedro.klein.sl@gmail.com" />
+    </a>
+</p>
